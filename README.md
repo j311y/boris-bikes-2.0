@@ -1,13 +1,5 @@
-Week 1 challenge Boris bikes
+#Boris bikes
 
-First Ruby project
+###Makers Academy Week 1
 
-
-
-| Objects | Messages |
-| ------- | -------- |
-| Bike | |
-| Person  |  |
-|         |  |
-|         | bike_working |
-|Docking_station | release_a_bike |
+First challenge of the Makers Academy course.
