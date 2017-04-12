@@ -4,6 +4,6 @@
 
 First challenge of the Makers Academy course.
 
-![alt text](http://i.telegraph.co.uk/multimedia/archive/01959/boris_1959144c.jpg)
+![alt text](http://www.londonlovesbusiness.com/Pictures/web/h/f/e/Boris-and-his-bike_622.jpg)
 
 ####
