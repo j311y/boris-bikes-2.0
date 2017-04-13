@@ -25,7 +25,6 @@ describe DockingStation do
     end
     it 'releases a bike that works' do
       expect(bike).to be_instance_of(Bike)
-      expect(bike).to be_working
     end
   end
 
